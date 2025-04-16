@@ -25,11 +25,11 @@ function communismSort(numbers) {
     throw new TypeError("Expected an array");
   }
 
-  if (arr.length === 0) {
+  if (numbers.length === 0) {
     throw new Error("Array should not be empty");
   }
 
-  if (!arr.every((item) => typeof item === "number")) {
+  if (!numbers.every((item) => typeof item === "number")) {
     throw new TypeError("Array should contain only numbers");
   }
 
