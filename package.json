@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "chertenko1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chernenko1/communism-sort"
+  },
+  "keywords": [
+    "sort",
+    "array",
+    "average"
+  ]
 }
